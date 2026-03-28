@@ -8,7 +8,7 @@ This repository contains processed structure predictions generated using BioEMU.
 
 Click below to launch:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yehudad/md-binder-stxbp1/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ydinaii/md-binder-stxbp1/HEAD)
 
 ## Notes
 
