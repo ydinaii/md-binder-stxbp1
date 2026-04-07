@@ -6,12 +6,21 @@ This repository contains processed structure predictions generated using AlphaFo
 
 This repository contains processed structure predictions generated using BioEMU. For more information, see [microsoft/bioemu](https://github.com/microsoft/bioemu) and [Lewis, S. et al. Science (2025)](https://www.science.org/doi/10.1126/science.adv9817).
 
-Click below to launch:
+Click below to launch notebook:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ydinaii/md-binder-stxbp1/HEAD)
 
-## Notes
+### Notes
 
 - First launch takes ~1–2 minutes
 - Works best on desktop Chrome
 
+## Mol*
+
+Click below to view the AlphaFold 3 ensemble in Mol*:
+
+[![Mol* Viewer](https://img.shields.io/badge/View_in-Mol*-box?logo=molecular-network&color=blue)](https://molstar.org/viewer/?snapshot-url=https://raw.githubusercontent.com/ydinaii/md-binder-stxbp1/refs/heads/main/mol-star_state_af.molx&snapshot-url-type=molx)
+
+Click below to view the BioEmu ensemble in Mol*:
+
+[![Mol* Viewer](https://img.shields.io/badge/View_in-Mol*-box?logo=molecular-network&color=blue)](https://molstar.org/viewer/?snapshot-url=https://raw.githubusercontent.com/ydinaii/md-binder-stxbp1/refs/heads/main/mol-star_state_bioemu.molx&snapshot-url-type=molx)
