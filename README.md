@@ -1,4 +1,4 @@
-# Syntaxin (STXBP1) Ensemble Visualization
+# Syntaxin (STXBP1) and STXBP1-R406H Ensemble Visualization
 
 ## Data Source
 
@@ -17,10 +17,14 @@ Click below to launch notebook:
 
 ## Mol*
 
-Click below to view the AlphaFold 3 ensemble in Mol*:
+Click below to view the AlphaFold 3 ensemble of STXBP1 in Mol*:
 
 [![Mol* Viewer](https://img.shields.io/badge/View_in-Mol*-box?logo=molecular-network&color=blue)](https://molstar.org/viewer/?snapshot-url=https://raw.githubusercontent.com/ydinaii/md-binder-stxbp1/refs/heads/main/mol-star_state_af.molx&snapshot-url-type=molx)
 
-Click below to view the BioEmu ensemble in Mol*:
+Click below to view the BioEmu ensemble of STXBP1 in Mol*:
 
 [![Mol* Viewer](https://img.shields.io/badge/View_in-Mol*-box?logo=molecular-network&color=blue)](https://molstar.org/viewer/?snapshot-url=https://raw.githubusercontent.com/ydinaii/md-binder-stxbp1/refs/heads/main/mol-star_state_bioemu.molx&snapshot-url-type=molx)
+
+Click below to view the BioEmu ensemble of STXBP1-R406H in Mol*:
+
+[![Mol* Viewer](https://img.shields.io/badge/View_in-Mol*-box?logo=molecular-network&color=blue)](https://molstar.org/viewer/?snapshot-url=https://raw.githubusercontent.com/ydinaii/md-binder-stxbp1/refs/heads/main/README.md&snapshot-url-type=molx)
