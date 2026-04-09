@@ -27,4 +27,4 @@ Click below to view the BioEmu ensemble of STXBP1 in Mol*:
 
 Click below to view the BioEmu ensemble of STXBP1-R406H in Mol*:
 
-[![Mol* Viewer](https://img.shields.io/badge/View_in-Mol*-box?logo=molecular-network&color=blue)](https://molstar.org/viewer/?snapshot-url=https://raw.githubusercontent.com/ydinaii/md-binder-stxbp1/refs/heads/main/README.md&snapshot-url-type=molx)
+[![Mol* Viewer](https://img.shields.io/badge/View_in-Mol*-box?logo=molecular-network&color=blue)](https://molstar.org/viewer/?snapshot-url=https://raw.githubusercontent.com/ydinaii/md-binder-stxbp1/refs/heads/main/mol-star_state_r406h.molx&snapshot-url-type=molx)
