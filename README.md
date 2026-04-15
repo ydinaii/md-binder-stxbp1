@@ -1,4 +1,4 @@
-# Syntaxin (STXBP1) and STXBP1-R406H Ensemble Visualization
+# STXBP1 (Syntaxin-binding protein 1) and STXBP1-R406H Ensemble Visualization
 
 ## Data Source
 
